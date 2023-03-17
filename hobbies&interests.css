@@ -1,0 +1,53 @@
+.flex-container {
+    width: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex-container>div {
+    width: 35%;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.flex-container>div>h3 {
+    text-align: center;
+    color: hsl(133, 98%, 52%);
+    font-size: 20px;
+}
+
+.flex-container>div>img {
+    height: 300px;
+    width: 100%;
+    border-radius: 30px;
+}
+
+#head {
+    color:hwb(16 3% 3%);
+    text-align: center;
+    display: inline;
+    padding-left: 25%;
+}
+
+#back {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }
+
+  button {
+    background-color:hwb(16 3% 3%);
+    margin-left:18%;
+     border: 0px;
+    border-radius: 5px;
+    padding: 5px;
+  }
+
+  .footer {
+    text-align: center;
+  }

@@ -1,0 +1,46 @@
+.flex-container {
+    margin-top: 20px;
+    width: fit-content;
+    border: 1px solid rgb(16, 233, 241);
+    padding:10px 20px;
+    border-radius: 10px;
+    background-color: grey;
+}
+
+.bright {
+    color:rgb(9, 247, 13);
+}
+
+.top-banner>img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.top-banner>a {
+    color:rgb(9, 198, 245);
+}
+
+.footer {
+    text-align: center;
+}
+
+.round {
+    border: 2px solid grey;
+    border-radius: 5px;
+    height: 20px;
+}
+
+textarea  {
+    border: 2px solid grey;
+    border-radius: 5px;
+    border-radius: 5px;
+}
+
+.btn {
+    padding-top: 5px;
+    background-color:#5bc0de;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 20px;
+  }

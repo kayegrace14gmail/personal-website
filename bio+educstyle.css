@@ -1,0 +1,65 @@
+.flex-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-container>div {
+    padding-left:30px;
+  }
+
+  #back {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }
+
+  button {
+    background-color:#5bc0de;
+    margin-left:25%;
+     border: 0px;
+    border-radius: 5px;
+    padding: 5px;
+  }
+
+#bio-pic {
+    height: 100px;
+    width: 100px;
+    border: 0px;
+    border-radius: 20px;
+}
+.desc>h2 {
+ display: inline;
+}
+
+.details-table {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+
+.educbg {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+#bio-heading {
+    text-align: center;
+    color: rgb(54, 246, 5);
+}
+
+tr:nth-child(odd) {
+    background-color:  #b3ffb3;
+  }
+
+  .footer {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  
